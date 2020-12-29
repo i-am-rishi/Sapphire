@@ -1,0 +1,20 @@
+.learn-button {
+    width: 25vw;
+    height: 8vh;
+    background: #4ad9e4;
+    border-radius: 4px;
+    /* margin-left: 10%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.href-link {
+    text-decoration: none;
+    color: white;
+}
+
+.learn-button:hover {
+    background: linear-gradient(90deg, rgba(110, 94, 254)0%, rgba(73, 63, 252, 1)100%);
+    transition: 250ms;
+}

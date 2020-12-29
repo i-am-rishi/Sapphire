@@ -1,0 +1,54 @@
+.join-us {
+    width: 95vw;
+    height: 70vh;
+    margin-left:2vw;
+}
+
+.join-us-title {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 5vh;
+    font-size: 2.0rem;
+    text-shadow: 1px 1px;
+}
+
+.join-us-description {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 4vh;
+    font-weight: 600;
+}
+
+.join-us-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    background: #4ad9e4;
+    margin-left: 40vw;
+    font-size: 1.5rem;
+    margin-top: 1vh;
+    width: 20vw;
+    height: 10vh;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.join-us-link:hover {
+    color: #fff;
+    background: linear-gradient(90deg, rgba(110, 94, 254)0%, rgba(73, 63, 252, 1)100%);
+    cursor: pointer;
+    transition: 350ms;
+}
+
+@media only screen and (max-width:768px) {
+    .join-us-description {
+        font-size: 0.9rem;
+    }
+    .join-us-link {
+        font-size: 1.0rem;
+        height: 8vh;
+    }
+}

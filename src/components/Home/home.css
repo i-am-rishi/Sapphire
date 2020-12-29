@@ -1,0 +1,39 @@
+.home-component {
+    width: 95vw;
+    height: 75vh;
+    margin-top: 10vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.opening-statements {
+    width: 80vw;
+    margin-left: 5vw;
+    font-size: 1.7rem;
+    text-shadow: 1px 1px 1px;
+    font-weight: 600;
+}
+
+.button {
+    margin-left: 33vw;
+}
+
+@media only screen and (max-width:768px) {
+    .home-component {
+        margin-top: 10vh;
+    }
+    .opening-statements {
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .home-component {
+        margin-top: 15vh;
+    }
+    .opening-statements {
+        font-size: 1.1rem;
+    }
+}

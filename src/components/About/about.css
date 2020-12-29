@@ -1,0 +1,125 @@
+.about-section {
+    width: 95vw;
+    height: 80vh;
+}
+
+.subordinate-sections {
+    width: 90vw;
+    margin-left: 5vw;
+}
+
+.section-intro {
+    font-size: 1.8rem;
+    margin-top: 10vh;
+    margin-bottom: 15vh;
+    font-weight: 700;
+    text-align: center;
+}
+
+.elements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.elements-pack {
+    display: grid;
+}
+
+.icons {
+    font-size: 2.0rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.description {
+    font-weight: 500;
+    margin-bottom: 5vh;
+}
+
+.collect {
+    width: 30%;
+}
+
+.numbers {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.family-title {
+    font-size: 2.0rem;
+    font-weight: 700;
+}
+
+.panel-pack {
+    width: 100%;
+    margin-bottom: 5vh;
+}
+
+.panel-elements {
+    text-align: center;
+}
+
+.panel-img {
+    border-radius: 100%;
+    height: 10rem;
+    width: 10rem;
+}
+
+.panel-link {
+    text-decoration: none;
+    color: black;
+    width: 10vw;
+    font-size: 1.5rem;
+}
+
+.panel-name {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.panel-designation {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.panel-introduction {
+    font-size: 1.0rem;
+    font-weight: 500;
+}
+
+.lifeline-elements {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lifeline-img {
+    margin-right: 1vw;
+}
+
+@media only screen and (max-width:768px) {
+    .icons {
+        font-size: 0.7rem;
+    }
+    .title {
+        font-size: 1.0rem;
+    }
+    .description {
+        font-size: 0.8rem;
+    }
+    .family-title {
+        font-size: 1.4rem;
+    }
+    .panel-introduction {
+        display: none;
+    }
+    .lifeline-elements {
+        display: grid;
+        margin-left: 5vw;
+    }
+}

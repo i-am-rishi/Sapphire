@@ -1,0 +1,22 @@
+export const MenuItems=[
+    {
+        title:"Events",
+        url:"/events",
+        cname:"nav-links"
+    },
+    {
+        title:"About",
+        url:"/about",
+        cname:"nav-links"
+    },
+    {
+        title:"Contact-Us",
+        url:"/contact-us",
+        cname:"nav-links"
+    },
+    {
+        title:"JoinUs",
+        url:"/join-us",
+        cname:"nav-links-mobile"
+    }
+]

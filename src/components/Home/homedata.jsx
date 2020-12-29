@@ -1,0 +1,1 @@
+export const introduction="Sapphire is a student organization under the aegis of Division of Student Welfare, Lovely Professional University. Sapphire’s vision is to lead a forward-thinking and vibrant student community where students can learn, connect, discover and most important enjoy.";
