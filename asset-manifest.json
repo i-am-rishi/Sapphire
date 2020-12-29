@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sapphire/static/css/main.9b01a0fe.chunk.css",
+    "main.js": "/Sapphire/static/js/main.e1eace1e.chunk.js",
+    "main.js.map": "/Sapphire/static/js/main.e1eace1e.chunk.js.map",
+    "runtime-main.js": "/Sapphire/static/js/runtime-main.528913aa.js",
+    "runtime-main.js.map": "/Sapphire/static/js/runtime-main.528913aa.js.map",
+    "static/js/2.4a2db58a.chunk.js": "/Sapphire/static/js/2.4a2db58a.chunk.js",
+    "static/js/2.4a2db58a.chunk.js.map": "/Sapphire/static/js/2.4a2db58a.chunk.js.map",
+    "index.html": "/Sapphire/index.html",
+    "static/css/main.9b01a0fe.chunk.css.map": "/Sapphire/static/css/main.9b01a0fe.chunk.css.map",
+    "static/js/2.4a2db58a.chunk.js.LICENSE.txt": "/Sapphire/static/js/2.4a2db58a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.528913aa.js",
+    "static/js/2.4a2db58a.chunk.js",
+    "static/css/main.9b01a0fe.chunk.css",
+    "static/js/main.e1eace1e.chunk.js"
+  ]
+}
